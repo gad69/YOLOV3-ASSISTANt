@@ -13,3 +13,5 @@ output the location in the form of audio.
 
 
 ![image](https://github.com/gad69/YOLOV3-ASSISTANt/assets/75172431/85ec21d0-7ce2-4272-a040-d04dd636de81)
+
+Please refer this for more information ETE_FINAL_TERM_PAPER.pdf
